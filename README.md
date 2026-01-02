@@ -8,4 +8,3 @@ E-Commerce Platform Inspired by Amazon Using React is a modern, responsive web a
 <img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/1c9c7ea1-c3d4-4bf4-9678-7b0b537a8899" />
 
 <img width="1788" height="2703" alt="image" src="https://github.com/user-attachments/assets/309bb470-f4f2-4ed4-ac1a-3235bf369a4f" />
-
